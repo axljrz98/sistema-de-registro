@@ -5,3 +5,4 @@ Para ejecutar el programa debes ejecutar:
 
 ```npm install read```
 
+Actualiza el sistema de registro
